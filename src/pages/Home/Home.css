@@ -1,0 +1,17 @@
+.btn-bg {
+  background-color: #ff7f47;
+  color: white;
+}
+.regular {
+  color: lightslategrey;
+  font-size: 20px;
+  text-decoration: line-through;
+  font-weight: bold;
+}
+.title {
+  color: #ff7f47;
+}
+
+.margin-top {
+  margin-top: -20px;
+}
